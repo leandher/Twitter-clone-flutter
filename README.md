@@ -1,6 +1,6 @@
-# mobile
+# Twitter Clone
 
-A new Flutter project.
+A new Flutter project to study purpose. 
 
 ## Getting Started
 
